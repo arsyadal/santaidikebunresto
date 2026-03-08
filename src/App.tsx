@@ -14,9 +14,9 @@ import {
 } from 'lucide-react';
 
 // Hero Image
-import heroImg from '/Users/macintoshhd/.gemini/antigravity/brain/7382a39b-16f8-4ec0-8cd4-b65561c1841d/santai_di_kebun_hero_1772977357528.png';
-import bistikImg from '/Users/macintoshhd/.gemini/antigravity/brain/7382a39b-16f8-4ec0-8cd4-b65561c1841d/bistik_ayam_close_up_1772977375425.png';
-import jjamppongImg from '/Users/macintoshhd/.gemini/antigravity/brain/7382a39b-16f8-4ec0-8cd4-b65561c1841d/jjamppong_close_up_1772977394388.png';
+import heroImg from './assets/hero.png';
+import bistikImg from './assets/bistik.png';
+import jjamppongImg from './assets/jjamppong.png';
 
 function App() {
   const [isOpen, setIsOpen] = useState(false);
